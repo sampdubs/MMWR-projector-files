@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/sampdubs/MMWR-projector-files/master/w2v_tensor.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/sampdubs/MMWR-projector-files/master/w2v_metadata.tsv"
+    }
+  ]
+}
