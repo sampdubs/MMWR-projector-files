@@ -6,8 +6,8 @@
         1000,
         50
       ],
-      "tensorPath": "https://raw.githubusercontent.com/sampdubs/MMWR-projector-files/master/d2v_tensor.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/sampdubs/MMWR-projector-files/master/d2v_metadata.tsv"
+      "tensorPath": "https://media.githubusercontent.com/media/sampdubs/MMWR-projector-files/master/d2v_tensor.tsv",
+      "metadataPath": "https://media.githubusercontent.com/media/sampdubs/MMWR-projector-files/master/d2v_metadata.tsv"
     }
   ]
 }
